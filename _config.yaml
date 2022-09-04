@@ -1,8 +1,8 @@
 version:     "0000--4-Sep-2022"
 copyright:   "2022"
 author:      "Linus A. W."
-title:       "OS231: Operating Systems 2022-2"
-githublink:  "https://github.com/linusabhyasaui/os231/"
+title:       "OS222: Operating Systems 2022-2"
+githublink:  "https://github.com/linusabhyasaui/os222/"
 myloglink:   "mylog.txt"
 encoding:    UTF-8
 markdown:    kramdown
