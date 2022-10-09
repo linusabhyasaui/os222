@@ -8,3 +8,6 @@ ZCZC W02 30 L00 Studying
 ZCZC W02 120 L09 Week 02 Assignments
 ZCZC W03 40 L09 Week 03 Assignments
 ZCZC W04 40 L09 Week 04 Assignments
+ZCZC W05 10 L05 Quiz 01 Week 5
+ZCZC W05 20 L05 Quiz 02 Week 5
+ZCZC W05 60 L09 Week 05 Assignments
