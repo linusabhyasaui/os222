@@ -11,3 +11,5 @@ ZCZC W04 40 L09 Week 04 Assignments
 ZCZC W05 10 L05 Quiz 01 Week 5
 ZCZC W05 20 L05 Quiz 02 Week 5
 ZCZC W05 60 L09 Week 05 Assignments
+ZCZC W06 10 L05 Quiz Week 6
+ZCZC W06 30 L09 Week 06 Assignments
